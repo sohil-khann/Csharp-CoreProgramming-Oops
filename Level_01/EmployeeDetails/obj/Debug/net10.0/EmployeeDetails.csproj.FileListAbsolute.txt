@@ -1,0 +1,14 @@
+D:\Acess meditech\C#CorePrgramming_Oops\Level_01\EmployeeDetails\obj\Debug\net10.0\EmployeeDetails.GeneratedMSBuildEditorConfig.editorconfig
+D:\Acess meditech\C#CorePrgramming_Oops\Level_01\EmployeeDetails\obj\Debug\net10.0\EmployeeDetails.AssemblyInfoInputs.cache
+D:\Acess meditech\C#CorePrgramming_Oops\Level_01\EmployeeDetails\obj\Debug\net10.0\EmployeeDetails.AssemblyInfo.cs
+D:\Acess meditech\C#CorePrgramming_Oops\Level_01\EmployeeDetails\obj\Debug\net10.0\EmployeeDetails.csproj.CoreCompileInputs.cache
+D:\Acess meditech\C#CorePrgramming_Oops\Level_01\EmployeeDetails\bin\Debug\net10.0\EmployeeDetails.exe
+D:\Acess meditech\C#CorePrgramming_Oops\Level_01\EmployeeDetails\bin\Debug\net10.0\EmployeeDetails.deps.json
+D:\Acess meditech\C#CorePrgramming_Oops\Level_01\EmployeeDetails\bin\Debug\net10.0\EmployeeDetails.runtimeconfig.json
+D:\Acess meditech\C#CorePrgramming_Oops\Level_01\EmployeeDetails\bin\Debug\net10.0\EmployeeDetails.dll
+D:\Acess meditech\C#CorePrgramming_Oops\Level_01\EmployeeDetails\bin\Debug\net10.0\EmployeeDetails.pdb
+D:\Acess meditech\C#CorePrgramming_Oops\Level_01\EmployeeDetails\obj\Debug\net10.0\EmployeeDetails.dll
+D:\Acess meditech\C#CorePrgramming_Oops\Level_01\EmployeeDetails\obj\Debug\net10.0\refint\EmployeeDetails.dll
+D:\Acess meditech\C#CorePrgramming_Oops\Level_01\EmployeeDetails\obj\Debug\net10.0\EmployeeDetails.pdb
+D:\Acess meditech\C#CorePrgramming_Oops\Level_01\EmployeeDetails\obj\Debug\net10.0\EmployeeDetails.genruntimeconfig.cache
+D:\Acess meditech\C#CorePrgramming_Oops\Level_01\EmployeeDetails\obj\Debug\net10.0\ref\EmployeeDetails.dll
