@@ -14,7 +14,7 @@ Welcome to the official repository for **BridgeLabz .NET Fullstack Training**. T
 This repository is organized into three progressive levels, each building upon fundamental programming concepts:
 
 ```
-CoreProgramming/
+Csharp-CoreProgramming-Oops/
 ├── Readme.md          # Project overview and structure
 └── .gitignore         # Git ignore configuration
 ```
@@ -22,54 +22,14 @@ CoreProgramming/
 ```
 ## Branch Structure
 CoreProgramming/
-├── arthmatic-operations         
-├── control-flows          
-├── main          
-├── arrays
-├── strings
-├── methods
-├── built-in-functions
-├── practice-problems
+├── class-and-objects         
+
 ```
 ```
-##  structure of control-flows/
-CoreProgramming/
-├── Level_01/          # Fundamental Programming Concepts
-├── Level_02/          # Intermediate Problem Solving  
-├── Level_03/          # Advanced Algorithms & Mathematical Concepts
-└── .gitignore         # Git ignore configuration
-<<<<<<< HEAD
+##  structure of control-/
+Csharp-CoreProgramming-Oops/class-and-objects
+├── Level_01/          # Fundamental Oops Concepts
 
-##  structure of arrays/
-CoreProgramming/
-├── Level_01/          # Fundamental Programming Concepts
-├── Level_02/          # Intermediate Problem Solving  
-└── .gitignore         # Git ignore configuration
-
-
-##  structure of strings/
-CoreProgramming/
-├── Level_01/          # Fundamental Programming Concepts
-├── Level_02/          # Intermediate Problem Solving  
-└── .gitignore         # Git ignore configuration
-
-
-##  structure of methods/
-CoreProgramming/
-├── Level_01/          # Fundamental Programming Concepts
-├── Level_02/          # Intermediate Problem Solving 
-├── Level_03/          # Advanced Problem Solving 
-└── .gitignore         # Git ignore configuration
-
-##  structure of built-in-functions/
-CoreProgramming/
-├── Level_01/          # Fundamental Programming Concepts
-└── .gitignore         # Git ignore configuration
-
-##  structure of date-and-time/
-CoreProgramming/
-├── Level_01/          # Fundamental Programming Concepts
-└── .gitignore         # Git ignore configuration
 =======
 ```
 ##  Technology Stack
@@ -85,26 +45,13 @@ CoreProgramming/
 
 
 ##  Learning Progression
-###  Level 01 - Fundamentals
-Basic syntax, control flow, input/output, and simple math
-- Variables, data types, operators
-- If-else statements and loops
-- User input and validation
-- Simple math: factorial, sum of numbers
+###  Level 01 - Class and Objects
+Object-oriented fundamentals: classes, objects, methods, and properties
+- Creating classes and instantiating objects
+- Defining fields, properties, constructors, and methods
+- Encapsulation and access modifiers (public, private)
+- Object interaction and method invocation
 
-###  Level 02 - Intermediate
-Real-world applications and algorithms
-- Leap year and grade calculations
-- Prime number checking
-- BMI calculator
-- FizzBuzz and factors
-
-###  Level 03 - Advanced
-Complex math and number theory
-- Armstrong numbers
-- Harshad numbers
-- Digit manipulation
-- Zeller's congruence algorithm
 ---
 
 ##  Code Quality Standards
