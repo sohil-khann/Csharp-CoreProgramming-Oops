@@ -8,8 +8,10 @@ namespace PracticePrograms
 {
     public class Circle
     {
+        //getter and setter for radius
         public double Radius { get; set; }
 
+        //default constructor chaining to parameterized constructor
         public Circle() : this(1.0)
         {
         }
@@ -28,7 +30,7 @@ namespace PracticePrograms
         {
             return 2 * Math.PI * Radius;
         }
-
+        //method to display circle info
         public void DisplayInfo()
         {
             Console.WriteLine($"Circle with radius {Radius}: Area = {GetArea():F2}, Circumference = {GetCircumference():F2}");
