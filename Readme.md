@@ -1,4 +1,4 @@
-﻿# 🌉 BridgeLabz Training Program - Core Programming
+#  BridgeLabz Training Program - Core Programming
 
 Welcome to the official repository for **BridgeLabz .NET Fullstack Training**. This repository documents a comprehensive learning journey through Core C# programming fundamentals, structured across three progressive difficulty levels.
 
@@ -13,25 +13,21 @@ Welcome to the official repository for **BridgeLabz .NET Fullstack Training**. T
 
 This repository is organized into three progressive levels, each building upon fundamental programming concepts:
 
-```
+`
 Csharp-CoreProgramming-Oops/
-├── Readme.md          # Project overview and structure
-└── .gitignore         # Git ignore configuration
-```
+ Level_01/               # Fundamental Oops Concepts (Level 01)
+    BankAccountSystem.cs
+    LibraryManagementSystem.cs
+    EmployeeManagementSystem.cs
+    ShoppingCartSystem.cs
+    StudentManagementSystem.cs
+    VehicleRegistrationSystem.cs
+    HospitalManagementSystem.cs
+    Program.cs
+ Readme.md               # Project overview and structure
+ .gitignore              # Git ignore configuration
+`
 
-```
-## Branch Structure
-CoreProgramming/
-├── class-and-objects         
-
-```
-```
-##  structure of control-/
-Csharp-CoreProgramming-Oops/class-and-objects
-├── Level_01/          # Fundamental Oops Concepts
-
-=======
-```
 ##  Technology Stack
 
 - **C# 12** - Modern .NET with latest language features
@@ -43,14 +39,17 @@ Csharp-CoreProgramming-Oops/class-and-objects
 
 ---
 
-
 ##  Learning Progression
+
 ###  Level 01 - Class and Objects
-Object-oriented fundamentals: classes, objects, methods, and properties
-- Creating classes and instantiating objects
-- Defining fields, properties, constructors, and methods
-- Encapsulation and access modifiers (public, private)
-- Object interaction and method invocation
+Object-oriented fundamentals: classes, objects, methods, and properties.
+- **Bank Account System**: Implementation of static variables, readonly fields, and \is\ operator for instance validation.
+- **Library Management**: Demonstrates static methods, \	his\ keyword for constructor initialization, and readonly properties.
+- **Employee Management**: Focuses on object initialization, static counters for tracking instances, and member access.
+- **Shopping Cart**: Seasonal discount management using static members and method updates.
+- **Student Management**: Academic record tracking with readonly roll numbers and university-wide static data.
+- **Vehicle Registration**: Fee management and vehicle identification using OOP principles.
+- **Hospital Management**: Patient record tracking with unique identifiers and hospital-wide configurations.
 
 ---
 
@@ -63,16 +62,16 @@ Object-oriented fundamentals: classes, objects, methods, and properties
 - **Modular Design**: Independent, reusable problem solutions
 
 ### Best Practices Implemented
-- **Input Validation**: Comprehensive error handling with `TryParse`
-- **User Experience**: Clear prompts and formatted output
-- **Code Organization**: Logical file structure and naming conventions
-- **Performance Optimization**: Efficient algorithms (O(√n) for prime checking)
-- **Modern C# Features**: Nullable reference types, implicit usings, string interpolation
+- **Input Validation**: Comprehensive error handling with \TryParse\ and manual parsing.
+- **User Experience**: Clear prompts and formatted output for console applications.
+- **Code Organization**: Logical file structure and naming conventions.
+- **Performance Optimization**: Efficient use of static members for shared data.
+- **Modern C# Features**: Nullable reference types, implicit usings, string interpolation, and \is\ pattern matching.
 
 ### Error Handling Strategy
-- **Graceful Degradation**: Programs continue execution despite invalid input
-- **User-Friendly Messages**: Clear error descriptions and retry guidance
-- **Edge Case Handling**: Comprehensive boundary condition testing
+- **Graceful Degradation**: Programs continue execution despite invalid input.
+- **User-Friendly Messages**: Clear error descriptions and retry guidance.
+- **Edge Case Handling**: Comprehensive boundary condition testing for user inputs.
 
 ---
 
@@ -86,55 +85,40 @@ Object-oriented fundamentals: classes, objects, methods, and properties
 ### Running the Programs
 
 1. **Clone the repository**:
-   ```bash
+   \\\ash
    git clone <repository-url>
    cd CoreProgramming
-   ```
+   \\\
 
-2. **Navigate to any Branch**:
-   ```bash
-   git switch branch-name
-   ```
+2. **Navigate to Level 01**:
+   \\\ash
+   cd Level_01
+   \\\
 
-3. **Run a specific level**:
-   ```bash
+3. **Run the project**:
+   \\\ash
    dotnet run
-   ```
-
+   \\\
 
 ---
 
 ## Project Statistics
 
-- **Total Problems**: 30+ programming exercises
-- **Lines of Code**: 1000+ lines of well-documented C# code
-- **Concepts Covered**: Basic syntax, control flow, loops, mathematical algorithms, number theory
-- **Difficulty Progression**: Beginner → Intermediate → Advanced
+- **Total Problems**: 7+ comprehensive OOP exercises in Level 01
+- **Concepts Covered**: Static members, \	his\ reference, \eadonly\ variables, \is\ operator, Constructors, and Class design.
+- **Difficulty Progression**: Beginner  Intermediate
 - **Framework**: Modern .NET 10.0 with latest C# features
 
 ---
 
 ##  Learning Objectives Achieved
 
- **Core Programming Fundamentals** - Variables, data types, operators  
- **Control Structures** - Conditional statements, loops, branching  
- **Input/Output Operations** - Console interaction, parsing, validation  
- **Mathematical Programming** - Algorithms, number theory, sequences  
- **Problem-Solving Skills** - Algorithmic thinking, optimization  
- **Code Organization** - Modular design, naming conventions  
- **Error Handling** - Validation, user experience  
- **Modern C# Practices** - Latest language features, safety mechanisms  
-
----
-
-##  Future Enhancements
-
-- **Object-Oriented Programming** - Classes, inheritance, polymorphism
-- **Data Structures** - Arrays, lists, dictionaries, custom collections
-- **Advanced Algorithms** - Sorting, searching, recursion
-- **File I/O** - Persistent data storage and retrieval
-- **Unit Testing** - Comprehensive test coverage with xUnit/NUnit
-- **GUI Applications** - Windows Forms or WPF implementations
+- **OOP Fundamentals** - Classes, Objects, and instance management.
+- **Static vs Instance** - Understanding shared vs unique data members.
+- **Encapsulation** - Managing access to data via properties and methods.
+- **Constructor Design** - Effective initialization using \	his\ and \eadonly\.
+- **Type Safety** - Using the \is\ operator for safe type checking.
+- **Code Organization** - Modular approach to complex system design.
 
 ---
 
@@ -149,4 +133,3 @@ This is a personal learning repository documenting progress through BridgeLabz t
 *Last Updated: December 2025*  
 
 Author: Sohil khan
-
