@@ -1,13 +1,6 @@
 ﻿using PracticePrograms;
 
-Console.WriteLine("╔════════════════════════════════════════════════════════════════════════════════╗");
-Console.WriteLine("║                   C# PRACTICE PROGRAMS - INTERACTIVE MODE                     ║");
-Console.WriteLine("║                         Level 1 & Level 2 Lessons                             ║");
-Console.WriteLine("╚════════════════════════════════════════════════════════════════════════════════╝\n");
-
-// =====================================================
 // LEVEL 1 - CONSTRUCTORS
-// =====================================================
 
 // PROBLEM 1: Book Class
 Console.WriteLine("--- Problem 1: Book Class ---");
@@ -187,9 +180,7 @@ Console.Clear();
 */
 
 /*
-// =====================================================
 // LEVEL 2 - INSTANCE vs CLASS VARIABLES
-// =====================================================
 
 // PROBLEM 7: Product Inventory
 Console.WriteLine("--- Problem 7: Product Inventory ---");
@@ -307,9 +298,7 @@ Console.ReadKey();
 Console.Clear();
 */
 
-// =====================================================
 // LEVEL 2 - ACCESS MODIFIERS
-// =====================================================
 
 // PROBLEM 10: University Management System
 Console.WriteLine("--- Problem 10: University Management System ---");
@@ -554,6 +543,3 @@ Console.WriteLine("\nPress any key to continue...\n");
 Console.ReadKey();
 Console.Clear();
 */
-
-Console.WriteLine("\n✓ All practice problems completed!");
-Console.WriteLine("To run other problems, uncomment them in Program.cs and comment out the current active problem.\n");
