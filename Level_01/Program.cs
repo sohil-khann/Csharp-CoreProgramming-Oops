@@ -3,9 +3,6 @@
 // LEVEL 1 - CONSTRUCTORS
 
 // PROBLEM 1: Book Class
-Console.WriteLine("--- Problem 1: Book Class ---");
-Console.WriteLine("Create books using default and parameterized constructors\n");
-
 Console.WriteLine("Creating default book:");
 Book book1 = new Book();
 book1.DisplayDetails();
@@ -23,15 +20,11 @@ if (!decimal.TryParse(Console.ReadLine(), out decimal price))
 
 Book book2 = new Book(title, author, price);
 book2.DisplayDetails();
-
-Console.WriteLine("\nPress any key to continue...\n");
 Console.ReadKey();
 Console.Clear();
 
 /*
 // PROBLEM 2: Circle Class - Constructor Chaining
-Console.WriteLine("--- Problem 2: Circle Class ---");
-Console.WriteLine("Learn about constructor chaining\n");
 
 Console.WriteLine("Creating default circle (radius = 1.0):");
 Circle circle1 = new Circle();
@@ -51,15 +44,12 @@ else
     circle2.DisplayInfo();
 }
 
-Console.WriteLine("\nPress any key to continue...\n");
 Console.ReadKey();
 Console.Clear();
 */
 
 /*
 // PROBLEM 3: Person Class - Copy Constructor
-Console.WriteLine("--- Problem 3: Person Class (Copy Constructor) ---");
-Console.WriteLine("Learn how to clone objects using copy constructor\n");
 
 Console.WriteLine("Enter person details:");
 Console.Write("Enter name: ");
@@ -82,15 +72,12 @@ Console.WriteLine("Copied Person:");
 person2.DisplayInfo();
 Console.WriteLine("\nBoth objects have the same data now!");
 
-Console.WriteLine("\nPress any key to continue...\n");
 Console.ReadKey();
 Console.Clear();
 */
 
 /*
 // PROBLEM 4: Hotel Booking System
-Console.WriteLine("--- Problem 4: Hotel Booking System ---");
-Console.WriteLine("Learn about default, parameterized, and copy constructors\n");
 
 Console.WriteLine("Creating default booking:");
 HotelBooking booking1 = new HotelBooking();
@@ -115,15 +102,12 @@ Console.WriteLine("\nCopying the booking using copy constructor:");
 HotelBooking booking3 = new HotelBooking(booking2);
 booking3.DisplayBookingInfo();
 
-Console.WriteLine("\nPress any key to continue...\n");
 Console.ReadKey();
 Console.Clear();
 */
 
 /*
 // PROBLEM 5: Library Book System
-Console.WriteLine("--- Problem 5: Library Book System ---");
-Console.WriteLine("Learn about borrowing and returning books\n");
 
 Console.Write("Enter book title: ");
 string libTitle = Console.ReadLine() ?? "Unknown";
@@ -151,15 +135,12 @@ Console.WriteLine("\nReturning the book:");
 libBook.ReturnBook();
 libBook.DisplayInfo();
 
-Console.WriteLine("\nPress any key to continue...\n");
 Console.ReadKey();
 Console.Clear();
 */
 
 /*
 // PROBLEM 6: Car Rental System
-Console.WriteLine("--- Problem 6: Car Rental System ---");
-Console.WriteLine("Calculate total rental cost\n");
 
 Console.Write("Enter customer name: ");
 string customerName = Console.ReadLine() ?? "Customer";
@@ -174,7 +155,6 @@ if (!int.TryParse(Console.ReadLine(), out int rentalDays))
 CarRental rental = new CarRental(customerName, carModel, rentalDays);
 rental.DisplayRentalInfo();
 
-Console.WriteLine("\nPress any key to continue...\n");
 Console.ReadKey();
 Console.Clear();
 */
@@ -183,8 +163,6 @@ Console.Clear();
 // LEVEL 2 - INSTANCE vs CLASS VARIABLES
 
 // PROBLEM 7: Product Inventory
-Console.WriteLine("--- Problem 7: Product Inventory ---");
-Console.WriteLine("Learn about static class variables\n");
 
 bool addMoreProducts = true;
 int productCount = 0;
@@ -209,15 +187,12 @@ while (addMoreProducts)
 Console.WriteLine("\n--- Total Products Summary ---");
 Product.DisplayTotalProducts();
 
-Console.WriteLine("\nPress any key to continue...\n");
 Console.ReadKey();
 Console.Clear();
 */
 
 /*
 // PROBLEM 8: Online Course Management
-Console.WriteLine("--- Problem 8: Online Course Management ---");
-Console.WriteLine("Learn about shared class variables\n");
 
 Console.WriteLine($"Current Institute Name: {Course.GetInstituteName()}\n");
 
@@ -250,7 +225,6 @@ if (Console.ReadLine()?.ToLower() == "y")
     string newInstituteName = Console.ReadLine() ?? "Tech Academy";
     Course.UpdateInstituteName(newInstituteName);
     
-    Console.WriteLine("\nNow all courses will show the new institute name!");
 }
 
 Console.WriteLine("\nPress any key to continue...\n");
@@ -260,8 +234,6 @@ Console.Clear();
 
 /*
 // PROBLEM 9: Vehicle Registration
-Console.WriteLine("--- Problem 9: Vehicle Registration ---");
-Console.WriteLine("Learn about static member modification\n");
 
 Console.WriteLine($"Current Registration Fee: ${Vehicle.GetRegistrationFee()}\n");
 
@@ -292,8 +264,6 @@ if (Console.ReadLine()?.ToLower() == "y")
         Console.WriteLine("\nAll vehicles now have the new registration fee!");
     }
 }
-
-Console.WriteLine("\nPress any key to continue...\n");
 Console.ReadKey();
 Console.Clear();
 */
@@ -301,8 +271,6 @@ Console.Clear();
 // LEVEL 2 - ACCESS MODIFIERS
 
 // PROBLEM 10: University Management System
-Console.WriteLine("--- Problem 10: University Management System ---");
-Console.WriteLine("Learn about access modifiers and inheritance\n");
 
 Console.WriteLine("--- Create an Undergraduate Student ---");
 Console.Write("Enter roll number: ");
@@ -347,17 +315,13 @@ string specialization = Console.ReadLine() ?? "General";
 PostgraduateStudent pgStudent = new PostgraduateStudent(pgRoll, pgName, pgCGPA, specialization);
 pgStudent.DisplayPostgradInfo();
 
-Console.WriteLine("\nNote: Postgraduate class can access protected 'name' member from Student class!");
 
-Console.WriteLine("\nPress any key to continue...\n");
 Console.ReadKey();
 Console.Clear();
 */
 
 /*
-// PROBLEM 11: Book Library System (With Access Modifiers)
-Console.WriteLine("--- Problem 11: Book Library System (With Access Modifiers) ---");
-Console.WriteLine("Learn about public, protected, and private members\n");
+// PROBLEM 11: Book Library System (With Access Modifiers
 
 Console.WriteLine("--- Create a Library Book ---");
 Console.Write("Enter ISBN: ");
@@ -405,8 +369,6 @@ Console.Clear();
 
 /*
 // PROBLEM 12: Bank Account Management
-Console.WriteLine("--- Problem 12: Bank Account Management ---");
-Console.WriteLine("Learn about encapsulation with getters and setters\n");
 
 Console.WriteLine("--- Create a Bank Account ---");
 Console.Write("Enter account number: ");
@@ -485,15 +447,12 @@ if (Console.ReadLine()?.ToLower() == "y")
     savingsAccount.ApplyInterest();
 }
 
-Console.WriteLine("\nPress any key to continue...\n");
 Console.ReadKey();
 Console.Clear();
 */
 
 /*
 // PROBLEM 13: Employee Records
-Console.WriteLine("--- Problem 13: Employee Records ---");
-Console.WriteLine("Learn about protected members in inheritance\n");
 
 Console.WriteLine("--- Create an Employee ---");
 Console.Write("Enter employee ID: ");
@@ -537,9 +496,7 @@ if (!int.TryParse(Console.ReadLine(), out int teamSize))
 Manager manager = new Manager(managerID, managerDept, managerSalary, teamSize);
 manager.DisplayManagerInfo();
 
-Console.WriteLine("\nNote: Manager class can access protected 'department' member from Employee class!");
 
-Console.WriteLine("\nPress any key to continue...\n");
 Console.ReadKey();
 Console.Clear();
 */
