@@ -13,7 +13,7 @@ Welcome to the official repository for **BridgeLabz .NET Fullstack Training**. T
 
 This repository is organized into three progressive levels, each building upon fundamental programming concepts:
 
-`
+```
 Csharp-CoreProgramming-Oops/
  Level_01/               # Fundamental Oops Concepts (Level 01)
     BankAccountSystem.cs
@@ -26,7 +26,7 @@ Csharp-CoreProgramming-Oops/
     Program.cs
  Readme.md               # Project overview and structure
  .gitignore              # Git ignore configuration
-`
+```
 
 ##  Technology Stack
 
@@ -105,7 +105,8 @@ Object-oriented fundamentals: classes, objects, methods, and properties.
 ## Project Statistics
 
 - **Total Problems**: 7+ comprehensive OOP exercises in Level 01
-- **Concepts Covered**: Static members, \	his\ reference, \eadonly\ variables, \is\ operator, Constructors, and Class design.
+- **Concepts Covered**: Static members, \	his\ reference, \
+eadonly\ variables, \is\ operator, Constructors, and Class design.
 - **Difficulty Progression**: Beginner  Intermediate
 - **Framework**: Modern .NET 10.0 with latest C# features
 
@@ -116,7 +117,8 @@ Object-oriented fundamentals: classes, objects, methods, and properties.
 - **OOP Fundamentals** - Classes, Objects, and instance management.
 - **Static vs Instance** - Understanding shared vs unique data members.
 - **Encapsulation** - Managing access to data via properties and methods.
-- **Constructor Design** - Effective initialization using \	his\ and \eadonly\.
+- **Constructor Design** - Effective initialization using \	his\ and \
+eadonly\.
 - **Type Safety** - Using the \is\ operator for safe type checking.
 - **Code Organization** - Modular approach to complex system design.
 
