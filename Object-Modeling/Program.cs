@@ -104,7 +104,7 @@ Console.WriteLine($"Faculty Member: {profJohnson.Name}");
 */
 
 //Hospital, Doctors, and Patients (Association and Communication)
-/*
+
 Hospital hospital = new Hospital("City Hospital");
 
 Doctor doctor1 = new Doctor("Dr. Sohil");
@@ -113,7 +113,7 @@ Patient patient1 = new Patient("mareez");
 Patient patient2 = new Patient("beemar");
 hospital.AdmitPatient(doctor1, patient1);
 hospital.AdmitPatient(doctor2, patient2);
-*/
+
 
 // Ecommerce Platform with Orders, Customers, and Products
 /*
