@@ -1,39 +1,72 @@
-/*Problem 3: Hospital, Doctors, and Patients (Association and Communication)
-Description: Model a Hospital where Doctor and Patient objects interact through
-consultations. A doctor can see multiple patients, and each patient can consult multiple
-doctors.
-Tasks:
- Define a Hospital class containing Doctor and Patient classes.
- Create a method Consult() in the Doctor class to show communication, which would
-display the consultation between a doctor and a patient.
- Model an association between doctors and patients to show that doctors and
-patients can have multiple relationships.
-Goal: Practice creating an association with communication between objects by modeling
-doctor-patient consultations.*/using System;internal class Hospital{    private string Name;    // Constructor    public Hospital(string name)    {        Name = name;    }    public void AdmitPatient(Doctor doctor, Patient patient)    {        Console.WriteLine($"Hospital {Name} admits Patient {patient.Name} to Doctor {doctor.Name}");        doctor.Consult(patient);    }    }
-// Define the Doctor class
-internal class Doctor
+using System;
+
+/*Problem 2: Bank and Account Holders (Association)  
+Description: Model a relationship where a Bank has associated Customer objects. A  
+Customer can possess multiple bank accounts, with each account linked to a Bank.  
+Tasks:  
+ Define a Bank class and a Customer class.  
+ Utilize an association relationship to demonstrate that each Customer has an account at a  
+Bank.  
+ Implement methods that facilitate communication, such as OpenAccount() in the Bank  
+class and ViewBalance() in the Customer class.  
+Goal: Illustrate association by establishing a relationship between customers and the bank. */ 
+using System;  
+// Define the BankAccountHolder class  
+internal class BankAccountHolder
+{
+    // Properties  
+    public string Name { get; private set; }
+    public decimal Balance { get; private set; }
+    private Bank bank;
+    // Constructor  
+    public BankAccountHolder(string name, Bank bank)
+    {
+        Name = name;
+        Balance = 0;
+        this.bank = bank;
+    }
+    // Methods  
+    public void Deposit(decimal amount)
+    {
+        if (amount > 0)
+        {
+            Balance += amount;
+            Console.WriteLine($"{Name} deposited {amount:C}. New balance: {Balance:C}");
+        }
+        else
+        {
+            Console.WriteLine("Deposit amount must be positive.");
+        }
+    }
+    // Withdraw method  
+    public void Withdraw(decimal amount)
+    {
+        if (amount > 0 && amount <= Balance)
+        {
+            Balance -= amount;
+            Console.WriteLine($"{Name} withdrew {amount:C}. New balance: {Balance:C}");
+        }
+        else
+        {
+            Console.WriteLine("Insufficient funds or invalid withdrawal amount.");
+        }
+    }
+    public void ViewBalance()
+    {
+        Console.WriteLine($"{Name}'s balance at {bank.Name}: {Balance:C}");
+    }
+}
+// Define the Bank class  
+internal class Bank
 {
     public string Name { get; private set; }
-    // Constructor
-    public Doctor(string name)
+    public Bank(string name)
     {
         Name = name;
     }
-    // Method to simulate consultation with a patient
-    public void Consult(Patient patient)
+    // Method to open an account for a customer  
+    public void OpenAccount(BankAccountHolder accountHolder)
     {
-        Console.WriteLine($"Doctor {Name} is consulting Patient {patient.Name}");
+        Console.WriteLine($"Account opened for {accountHolder.Name} at {Name}.");
     }
 }
-// Define the Patient class
-internal class Patient
-{
-    public string Name { get; private set; }
-    // Constructor
-    public Patient(string name)
-    {
-        Name = name;
-    }
-}
-
-
