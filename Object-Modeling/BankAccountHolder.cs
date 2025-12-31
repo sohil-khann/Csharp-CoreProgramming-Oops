@@ -7,7 +7,7 @@ Tasks:
 Bank.
  Implement methods that enable communication, such as OpenAccount() in the Bank
 class and ViewBalance() in the Customer class.
-Goal: Illustrate association by setting up a relationship between customers and the bank.*/using System;
+*/using System;
 // Define the BankAccountHolder class
 internal class BankAccountHolder{
     // Properties
