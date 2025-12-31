@@ -13,22 +13,21 @@ aggregates Book objects.*/
 
 using System.Collections.Generic;
 using System;
-internal  class Library{
+// Define the Library class
+internal class Library{
 
    
-   public  void Main(){
-      
-    }
     private string Name;
     private List<Book> books;
- public   Library(string name)
+    // Constructor
+    public Library(string name)
     {
         Name = name;
         books = new List<Book>();
     }
     public void AddBook(Book book){
         books.Add(book);
-    }
+    }// Method to display all books in the library
     public void DisplayBooks(){
         Console.WriteLine($"Books in {Name}:");
         foreach(var book in books){
@@ -36,7 +35,7 @@ internal  class Library{
         }
     }
 
-}
+}// Define the Book class
 internal class Book{
     public string Title {get; private set;}
     public string Author {get; private set;}

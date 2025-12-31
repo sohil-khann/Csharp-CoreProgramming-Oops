@@ -1,0 +1,15 @@
+D:\Acess meditech\C#CorePrgramming_Oops\Object-Modeling\obj\Debug\net10.0\Object-Modeling.GeneratedMSBuildEditorConfig.editorconfig
+D:\Acess meditech\C#CorePrgramming_Oops\Object-Modeling\obj\Debug\net10.0\Object-Modeling.AssemblyInfoInputs.cache
+D:\Acess meditech\C#CorePrgramming_Oops\Object-Modeling\obj\Debug\net10.0\Object-Modeling.AssemblyInfo.cs
+D:\Acess meditech\C#CorePrgramming_Oops\Object-Modeling\obj\Debug\net10.0\Object-Modeling.csproj.CoreCompileInputs.cache
+D:\Acess meditech\C#CorePrgramming_Oops\Object-Modeling\obj\Debug\net10.0\Object-Modeling.sourcelink.json
+D:\Acess meditech\C#CorePrgramming_Oops\Object-Modeling\bin\Debug\net10.0\Object-Modeling.exe
+D:\Acess meditech\C#CorePrgramming_Oops\Object-Modeling\bin\Debug\net10.0\Object-Modeling.deps.json
+D:\Acess meditech\C#CorePrgramming_Oops\Object-Modeling\bin\Debug\net10.0\Object-Modeling.runtimeconfig.json
+D:\Acess meditech\C#CorePrgramming_Oops\Object-Modeling\bin\Debug\net10.0\Object-Modeling.dll
+D:\Acess meditech\C#CorePrgramming_Oops\Object-Modeling\bin\Debug\net10.0\Object-Modeling.pdb
+D:\Acess meditech\C#CorePrgramming_Oops\Object-Modeling\obj\Debug\net10.0\Object-Modeling.dll
+D:\Acess meditech\C#CorePrgramming_Oops\Object-Modeling\obj\Debug\net10.0\refint\Object-Modeling.dll
+D:\Acess meditech\C#CorePrgramming_Oops\Object-Modeling\obj\Debug\net10.0\Object-Modeling.pdb
+D:\Acess meditech\C#CorePrgramming_Oops\Object-Modeling\obj\Debug\net10.0\Object-Modeling.genruntimeconfig.cache
+D:\Acess meditech\C#CorePrgramming_Oops\Object-Modeling\obj\Debug\net10.0\ref\Object-Modeling.dll
