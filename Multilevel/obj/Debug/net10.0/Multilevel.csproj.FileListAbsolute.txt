@@ -1,0 +1,15 @@
+D:\Acess meditech\C#CorePrgramming_Oops\Multilevel\bin\Debug\net10.0\Multilevel.exe
+D:\Acess meditech\C#CorePrgramming_Oops\Multilevel\bin\Debug\net10.0\Multilevel.deps.json
+D:\Acess meditech\C#CorePrgramming_Oops\Multilevel\bin\Debug\net10.0\Multilevel.runtimeconfig.json
+D:\Acess meditech\C#CorePrgramming_Oops\Multilevel\bin\Debug\net10.0\Multilevel.dll
+D:\Acess meditech\C#CorePrgramming_Oops\Multilevel\bin\Debug\net10.0\Multilevel.pdb
+D:\Acess meditech\C#CorePrgramming_Oops\Multilevel\obj\Debug\net10.0\Multilevel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Acess meditech\C#CorePrgramming_Oops\Multilevel\obj\Debug\net10.0\Multilevel.AssemblyInfoInputs.cache
+D:\Acess meditech\C#CorePrgramming_Oops\Multilevel\obj\Debug\net10.0\Multilevel.AssemblyInfo.cs
+D:\Acess meditech\C#CorePrgramming_Oops\Multilevel\obj\Debug\net10.0\Multilevel.csproj.CoreCompileInputs.cache
+D:\Acess meditech\C#CorePrgramming_Oops\Multilevel\obj\Debug\net10.0\Multilevel.sourcelink.json
+D:\Acess meditech\C#CorePrgramming_Oops\Multilevel\obj\Debug\net10.0\Multilevel.dll
+D:\Acess meditech\C#CorePrgramming_Oops\Multilevel\obj\Debug\net10.0\refint\Multilevel.dll
+D:\Acess meditech\C#CorePrgramming_Oops\Multilevel\obj\Debug\net10.0\Multilevel.pdb
+D:\Acess meditech\C#CorePrgramming_Oops\Multilevel\obj\Debug\net10.0\Multilevel.genruntimeconfig.cache
+D:\Acess meditech\C#CorePrgramming_Oops\Multilevel\obj\Debug\net10.0\ref\Multilevel.dll
