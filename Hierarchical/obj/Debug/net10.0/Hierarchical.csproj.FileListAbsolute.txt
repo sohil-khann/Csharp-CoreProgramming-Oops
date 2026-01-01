@@ -1,0 +1,15 @@
+D:\Acess meditech\C#CorePrgramming_Oops\Hierarchical\bin\Debug\net10.0\Hierarchical.exe
+D:\Acess meditech\C#CorePrgramming_Oops\Hierarchical\bin\Debug\net10.0\Hierarchical.deps.json
+D:\Acess meditech\C#CorePrgramming_Oops\Hierarchical\bin\Debug\net10.0\Hierarchical.runtimeconfig.json
+D:\Acess meditech\C#CorePrgramming_Oops\Hierarchical\bin\Debug\net10.0\Hierarchical.dll
+D:\Acess meditech\C#CorePrgramming_Oops\Hierarchical\bin\Debug\net10.0\Hierarchical.pdb
+D:\Acess meditech\C#CorePrgramming_Oops\Hierarchical\obj\Debug\net10.0\Hierarchical.GeneratedMSBuildEditorConfig.editorconfig
+D:\Acess meditech\C#CorePrgramming_Oops\Hierarchical\obj\Debug\net10.0\Hierarchical.AssemblyInfoInputs.cache
+D:\Acess meditech\C#CorePrgramming_Oops\Hierarchical\obj\Debug\net10.0\Hierarchical.AssemblyInfo.cs
+D:\Acess meditech\C#CorePrgramming_Oops\Hierarchical\obj\Debug\net10.0\Hierarchical.csproj.CoreCompileInputs.cache
+D:\Acess meditech\C#CorePrgramming_Oops\Hierarchical\obj\Debug\net10.0\Hierarchical.sourcelink.json
+D:\Acess meditech\C#CorePrgramming_Oops\Hierarchical\obj\Debug\net10.0\Hierarchical.dll
+D:\Acess meditech\C#CorePrgramming_Oops\Hierarchical\obj\Debug\net10.0\refint\Hierarchical.dll
+D:\Acess meditech\C#CorePrgramming_Oops\Hierarchical\obj\Debug\net10.0\Hierarchical.pdb
+D:\Acess meditech\C#CorePrgramming_Oops\Hierarchical\obj\Debug\net10.0\Hierarchical.genruntimeconfig.cache
+D:\Acess meditech\C#CorePrgramming_Oops\Hierarchical\obj\Debug\net10.0\ref\Hierarchical.dll
