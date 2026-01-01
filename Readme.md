@@ -25,7 +25,8 @@ CoreProgramming/
 ├── class-and-objects
 ├── constructors 
 ├── keywords-and-operator          
-
+├── inheritance
+├── diagrams
 ```
 ```
 ##  structure of control-/
@@ -34,7 +35,15 @@ Csharp-CoreProgramming-Oops/class-and-objects
 
 =======
 ```
-
+```
+inheritance/
+├── Single-inheritane/   # Single Inheritance Problems
+├── Multilevel/          # Multilevel Inheritance Problems
+├── Hierarchical/        # Hierarchical Inheritance Problems
+├── Hybrid/              # Hybrid Inheritance (Interfaces) Problems
+├── Readme.md            # Project overview and structure
+└── .gitignore           # Git ignore configuration
+```
 ```
 constructors/
  Level_01/               # Fundamental Oops Concepts (Level 01)
@@ -70,6 +79,29 @@ constructors/
  Readme.md               # Project overview and structure
  .gitignore              # Git ignore configuration
 ```
+
+
+
+## Inheritance Categories
+
+### 1. Single Inheritance
+- **Library Management**: `Book` (Superclass) and `Author` (Subclass).
+- **Smart Home Devices**: `Device` (Superclass) and `Thermostat` (Subclass).
+
+### 2. Multilevel Inheritance
+- **Order Management**: `Order` → `ShippedOrder` → `DeliveredOrder`.
+- **Course Hierarchy**: `Course` → `OnlineCourse` → `PaidOnlineCourse`.
+
+### 3. Hierarchical Inheritance
+- **Bank Account Types**: `BankAccount` (Base) with `SavingsAccount`, `CheckingAccount`, and `FixedDepositAccount` (Subclasses).
+- **School System**: `Person` (Superclass) with `Teacher`, `Student`, and `Staff` (Subclasses).
+
+### 4. Hybrid Inheritance (Simulating Multiple Inheritance)
+- **Restaurant Management**: `Person` (Superclass), `IWorker` (Interface), `Chef` & `Waiter` (Subclasses).
+- **Vehicle Management**: `Vehicle` (Superclass), `IRefuelable` (Interface), `ElectricVehicle` & `PetrolVehicle` (Subclasses).
+
+
+
 ##  Technology Stack
 
 - **C# 12** - Modern .NET with latest language features
