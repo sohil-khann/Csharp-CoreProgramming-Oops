@@ -44,6 +44,14 @@ inheritance/
 ├── Readme.md            # Project overview and structure
 └── .gitignore           # Git ignore configuration
 ```
+
+```
+diagrams/
+├── class-and-objects/   # Class and Objects
+├── Object-modeling/          # Object Modeling
+├── Readme.md            # Project overview and structure
+└── .gitignore           # Git ignore configuration
+```
 ```
 constructors/
  Level_01/               # Fundamental Oops Concepts (Level 01)
