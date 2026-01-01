@@ -1,0 +1,15 @@
+D:\Acess meditech\C#CorePrgramming_Oops\Single-inheritane\bin\Debug\net10.0\Single-inheritane.exe
+D:\Acess meditech\C#CorePrgramming_Oops\Single-inheritane\bin\Debug\net10.0\Single-inheritane.deps.json
+D:\Acess meditech\C#CorePrgramming_Oops\Single-inheritane\bin\Debug\net10.0\Single-inheritane.runtimeconfig.json
+D:\Acess meditech\C#CorePrgramming_Oops\Single-inheritane\bin\Debug\net10.0\Single-inheritane.dll
+D:\Acess meditech\C#CorePrgramming_Oops\Single-inheritane\bin\Debug\net10.0\Single-inheritane.pdb
+D:\Acess meditech\C#CorePrgramming_Oops\Single-inheritane\obj\Debug\net10.0\Single-inheritane.GeneratedMSBuildEditorConfig.editorconfig
+D:\Acess meditech\C#CorePrgramming_Oops\Single-inheritane\obj\Debug\net10.0\Single-inheritane.AssemblyInfoInputs.cache
+D:\Acess meditech\C#CorePrgramming_Oops\Single-inheritane\obj\Debug\net10.0\Single-inheritane.AssemblyInfo.cs
+D:\Acess meditech\C#CorePrgramming_Oops\Single-inheritane\obj\Debug\net10.0\Single-inheritane.csproj.CoreCompileInputs.cache
+D:\Acess meditech\C#CorePrgramming_Oops\Single-inheritane\obj\Debug\net10.0\Single-inheritane.sourcelink.json
+D:\Acess meditech\C#CorePrgramming_Oops\Single-inheritane\obj\Debug\net10.0\Single-inheritane.dll
+D:\Acess meditech\C#CorePrgramming_Oops\Single-inheritane\obj\Debug\net10.0\refint\Single-inheritane.dll
+D:\Acess meditech\C#CorePrgramming_Oops\Single-inheritane\obj\Debug\net10.0\Single-inheritane.pdb
+D:\Acess meditech\C#CorePrgramming_Oops\Single-inheritane\obj\Debug\net10.0\Single-inheritane.genruntimeconfig.cache
+D:\Acess meditech\C#CorePrgramming_Oops\Single-inheritane\obj\Debug\net10.0\ref\Single-inheritane.dll
