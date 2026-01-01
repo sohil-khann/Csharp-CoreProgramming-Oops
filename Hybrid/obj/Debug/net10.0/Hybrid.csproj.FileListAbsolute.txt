@@ -1,0 +1,15 @@
+D:\Acess meditech\C#CorePrgramming_Oops\Hybrid\bin\Debug\net10.0\Hybrid.exe
+D:\Acess meditech\C#CorePrgramming_Oops\Hybrid\bin\Debug\net10.0\Hybrid.deps.json
+D:\Acess meditech\C#CorePrgramming_Oops\Hybrid\bin\Debug\net10.0\Hybrid.runtimeconfig.json
+D:\Acess meditech\C#CorePrgramming_Oops\Hybrid\bin\Debug\net10.0\Hybrid.dll
+D:\Acess meditech\C#CorePrgramming_Oops\Hybrid\bin\Debug\net10.0\Hybrid.pdb
+D:\Acess meditech\C#CorePrgramming_Oops\Hybrid\obj\Debug\net10.0\Hybrid.GeneratedMSBuildEditorConfig.editorconfig
+D:\Acess meditech\C#CorePrgramming_Oops\Hybrid\obj\Debug\net10.0\Hybrid.AssemblyInfoInputs.cache
+D:\Acess meditech\C#CorePrgramming_Oops\Hybrid\obj\Debug\net10.0\Hybrid.AssemblyInfo.cs
+D:\Acess meditech\C#CorePrgramming_Oops\Hybrid\obj\Debug\net10.0\Hybrid.csproj.CoreCompileInputs.cache
+D:\Acess meditech\C#CorePrgramming_Oops\Hybrid\obj\Debug\net10.0\Hybrid.sourcelink.json
+D:\Acess meditech\C#CorePrgramming_Oops\Hybrid\obj\Debug\net10.0\Hybrid.dll
+D:\Acess meditech\C#CorePrgramming_Oops\Hybrid\obj\Debug\net10.0\refint\Hybrid.dll
+D:\Acess meditech\C#CorePrgramming_Oops\Hybrid\obj\Debug\net10.0\Hybrid.pdb
+D:\Acess meditech\C#CorePrgramming_Oops\Hybrid\obj\Debug\net10.0\Hybrid.genruntimeconfig.cache
+D:\Acess meditech\C#CorePrgramming_Oops\Hybrid\obj\Debug\net10.0\ref\Hybrid.dll
