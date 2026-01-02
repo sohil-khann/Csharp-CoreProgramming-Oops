@@ -1,4 +1,4 @@
-﻿# 🌉 BridgeLabz Training Program - Core Programming
+# 🌉 BridgeLabz Training Program - Core Programming
 
 Welcome to the official repository for **BridgeLabz .NET Fullstack Training**. This repository documents a comprehensive learning journey through Core C# programming fundamentals, structured across three progressive difficulty levels.
 
@@ -104,9 +104,46 @@ constructors/
 - **Bank Account Types**: `BankAccount` (Base) with `SavingsAccount`, `CheckingAccount`, and `FixedDepositAccount` (Subclasses).
 - **School System**: `Person` (Superclass) with `Teacher`, `Student`, and `Staff` (Subclasses).
 
-### 4. Hybrid Inheritance (Simulating Multiple Inheritance)
-- **Restaurant Management**: `Person` (Superclass), `IWorker` (Interface), `Chef` & `Waiter` (Subclasses).
-- **Vehicle Management**: `Vehicle` (Superclass), `IRefuelable` (Interface), `ElectricVehicle` & `PetrolVehicle` (Subclasses).
+### 4. Hybrid Inheritance
+- **Smart Device Control**: `ElectronicDevice` and `IConnectivity` implemented by `SmartPhone`.
+
+## 🏛️ OOP Pillars (Oops_Pillars)
+
+This project demonstrates the core pillars of Object-Oriented Programming: **Abstraction, Encapsulation, Inheritance, and Polymorphism** through 8 real-world scenarios.
+
+### 1. Employee Management System
+- **Concepts**: Abstract class `Employee`, Interface `IDepartment`.
+- **Implementation**: Manages Full-Time and Part-Time employees with dynamic salary calculation and department assignment.
+
+### 2. E-Commerce Platform
+- **Concepts**: Abstraction, Interface `ITaxable`.
+- **Implementation**: Calculates discounts and taxes for various product categories like Electronics, Clothing, and Groceries.
+
+### 3. Vehicle Rental System
+- **Concepts**: Abstract class `Vehicle`, Interface `IInsurable`.
+- **Implementation**: Handles rental costs and insurance calculations for Cars, Bikes, and Trucks.
+
+### 4. Banking System
+- **Concepts**: Encapsulation, Abstract class `BankAccount`, Interface `ILoanable`.
+- **Implementation**: Securely manages Savings and Current accounts with interest calculation and loan eligibility checks.
+
+### 5. Library Management System
+- **Concepts**: Abstraction, Interface `IReservable`.
+- **Implementation**: Manages Books, Magazines, and DVDs with specific loan durations and reservation capabilities.
+
+### 6. Online Food Delivery System
+- **Concepts**: Polymorphism, Interface `IDiscountable`.
+- **Implementation**: Processes Veg and Non-Veg food items with handling charges and dynamic discounts.
+
+### 7. Hospital Patient Management
+- **Concepts**: Encapsulation of sensitive medical data, Interface `IMedicalRecord`.
+- **Implementation**: Tracks In-Patients and Out-Patients with billing logic and secure medical history management.
+
+### 8. Ride-Hailing Application
+- **Concepts**: Abstract class `RideVehicle`, Interface `IGPS`.
+- **Implementation**: Calculates ride fares for Cars, Bikes, and Autos with real-time location updates via GPS.
+
+---
 
 
 
